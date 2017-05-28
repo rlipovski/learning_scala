@@ -1,0 +1,6 @@
+sbt test
+test
+ compile
+build
+test
+exit
