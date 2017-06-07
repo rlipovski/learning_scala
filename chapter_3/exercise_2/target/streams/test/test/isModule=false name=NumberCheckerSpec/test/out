@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mNumberCheckerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mnumberchecker[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return greater if number is greater than 0[0m[0m
+[0m[[0minfo[0m] [0m[32mnumberchecker[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return less if number is less than 0[0m[0m
+[0m[[0minfo[0m] [0m[32mnumberchecker[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return equals if number is equals to 0[0m[0m
