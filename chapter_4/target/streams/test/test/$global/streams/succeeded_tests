@@ -1,5 +1,6 @@
 #Successful Tests
-#Wed Jun 14 23:51:50 CEST 2017
-TimeConverterSpec=1497477110455
-CircleAreaSpec=1497477110460
-PowerSpec=1497477110452
+#Thu Jun 15 22:07:52 CEST 2017
+TimeConverterSpec=1497557272285
+CircleAreaSpec=1497557272296
+PointDifferenceSpec=1497557272291
+PowerSpec=1497557272295
