@@ -10,4 +10,10 @@ class PointDifferenceSpec extends FlatSpec{
     val p = new PointDifference
     assert(p.calculateDifference(-5, 4)(10, 1) == (-15, 3))
   }
+
+  "convertFirstItem" should "convert first item to Int and return a tuple" in {
+    val p = new PointDifference
+    assert(p.convertFirstItem[Int, Int](1, 2) == (1, 2))
+    assert(p.convertFirstItem[String, String]("5", "3") == (5, "3"))
+  }
 }
